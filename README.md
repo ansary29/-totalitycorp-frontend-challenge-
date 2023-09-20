@@ -1,6 +1,8 @@
  React Ecommerce with  fakeecommerceapi
 
-first there will like register page 
+ For Designing i have used chakraui 
+ 
+ first there will like register page 
 
  register page and login page validate using localstorage
 
